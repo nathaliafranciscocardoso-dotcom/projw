@@ -29,7 +29,13 @@ main{
 }
 .cabecalho-link{
     color: azure;
+    text-decoration: none;
 }
 h1{
+    color: azure;
+}
+.footer{
+    background-color: rgb(24, 5, 5);
+    padding: 15px 15px;
     color: azure;
 }
